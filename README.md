@@ -18,3 +18,6 @@ Laura's commit'
 Elliot's Commit
 
 >>>>>>> origin/develop
+
+
+James' Commit >>>> ------- <<<<<
